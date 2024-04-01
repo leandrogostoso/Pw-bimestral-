@@ -1,0 +1,105 @@
+body{
+    
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    align-self: center;
+    align-self: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 750px;
+}
+
+#imagem_do_google{
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+#t1{
+    font-size: x-large;
+    font-family: Arial, sans-serif;
+    font-weight: 100;
+}
+
+.form{
+    -webkit-box-shadow: 1px 1px 4px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 1px 4px -1px rgba(0,0,0,0.75);
+box-shadow: 1px 1px 4px -1px rgba(0,0,0,0.75);
+    margin-bottom: 50px;
+}
+
+input{
+    border-color: #4c8cf4;
+    border-width: 1px;
+    border-radius: 2.5px;
+    padding: 5px;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 1.3em;
+    padding-left: 1.3em;
+    background-image: url(../imgs/iconelogin.png);
+    background-position: 95% center;
+    background-repeat: no-repeat;
+    width: 60%;
+    padding: 9px;
+    
+}
+
+
+.pt1{
+    background-color:#f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+h3{
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    
+    
+}
+
+small{
+    margin-left: 60px;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    
+}
+
+#learnmore{
+    margin-left: 55px;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-right: 250px;
+    
+}
+
+#icone{
+    display: inline-block;
+}
+#next{
+    background-color: #4c8cf4;
+    color: #f5f5f5;
+    border: none;
+    width: 65%;
+    padding: 9px;
+    border-radius: 4px;
+    
+}
+
+#fma{
+    margin-left: 170px;
+}
+
+button{
+    color: #4c8cf4;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+
+}
